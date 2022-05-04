@@ -1,0 +1,13 @@
+{
+	"short_name": "Anims",
+	"name": "Animations",
+	"icons": [
+		{ "src": "/public/icons/animation.svg", "type": "image/svg+xml", "sizes": "512x512" },
+		{ "src": "/public/icons/animation.svg", "type": "image/svg+xml", "sizes": "192x192" }
+	],
+	"start_url": "/input",
+	"background_color": "green",
+	"theme_color": "green",
+	"display": "standalone",
+	"description": "just testing"
+}
